@@ -1,3 +1,3 @@
 portfolio created using vite
 
-https://github.com/abhiramihub/html-css-vite-portfolio
+https://dynamic-palmier-d61e22.netlify.app/
